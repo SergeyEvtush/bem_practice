@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icons';
-  src:  url('../fonts/icons.eot?ashzn5');
-  src:  url('../fonts/icons.eot?ashzn5#iefix') format('embedded-opentype'),
-    url('../fonts/icons.ttf?ashzn5') format('truetype'),
-    url('../fonts/icons.woff?ashzn5') format('woff'),
-    url('../fonts/icons.svg?ashzn5#icons') format('svg');
+  src:  url('../fonts/icons.eot?2m7ox9');
+  src:  url('../fonts/icons.eot?2m7ox9#iefix') format('embedded-opentype'),
+    url('../fonts/icons.ttf?2m7ox9') format('truetype'),
+    url('../fonts/icons.woff?2m7ox9') format('woff'),
+    url('../fonts/icons.svg?2m7ox9#icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -15,16 +15,19 @@
   font-family: 'icons' !important;
   speak: never;
   font-style: normal;
- 
   font-variant: normal;
   text-transform: none;
-
-
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+._icon-behance:before {
+  content: "\e916";
+}
+._icon-profile:before {
+  content: "\e915";
+}
 ._icon-search:before {
   content: "\e914";
 }
