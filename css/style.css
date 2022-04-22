@@ -1976,9 +1976,8 @@ color: #787A80;
 	width: 100%;
 }
 /*----------Cody Fisher-------------------*/
-.Cody {
-}
-.Cody__body {
+
+.cody__body {
 	position: relative;
 	background: #fff;
 	margin:0px 0px 180px 0px;
@@ -1987,10 +1986,6 @@ color: #787A80;
 .Cody__circules {
 	top: 0;
 	left: 17%;
-}
-
-
-.course-curator {
 }
 .manager {
 	display: flex;
@@ -2101,4 +2096,99 @@ color: #424551;
 }
 .item-social:hover{
 	color: red;
+}
+/*-------------------main steps---------------------------*/
+.main-steps {
+}
+.main-steps__body {
+}
+.main-steps__arrows {
+}
+.figures {
+}
+.main-steps__circules {
+}
+.main-steps__container {
+}
+._container {
+}
+.main-steps__title {
+}
+.title-block {
+}
+.subtitle-content {
+}
+.subtitle-content__text {
+}
+.title-content {
+}
+.title-content__text {
+}
+.main-steps__content {
+}
+.process-block {
+}
+.process-block__item {
+}
+.item-process {
+}
+.number-item {
+}
+.item-process__number {
+}
+.item-text {
+}
+.line-item {
+}
+.item-process__line {
+}
+.dashed-line {
+}
+.item-process__title {
+}
+.title-process {
+}
+.item-process__content {
+}
+.process-content {
+}
+.main-steps__discount {
+}
+.discount-container {
+}
+.discount-container__title {
+}
+.title-discount {
+}
+.discount-container__date {
+}
+.date-container {
+}
+.date-container__item {
+}
+.item-date {
+}
+.number-date {
+}
+.name-date {
+}
+.form-discount {
+}
+.form-discount__item {
+}
+.input-label {
+}
+.form-discount__input {
+}
+.name-input {
+}
+.email-input {
+}
+.phone-input {
+}
+.form-discount__btn {
+}
+.btn {
+}
+.button-discount {
 }
