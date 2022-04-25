@@ -2341,3 +2341,69 @@ color: #1E212C;
 	
 	}
 }
+/*------------for whom-------------------*/
+.for-whom {
+}
+.for-whom__body {
+	margin:0px 0px 180px 0px;
+}
+.for-whom__dots {
+	left: 0;
+
+}
+
+.for-whom__content {
+}
+.content-block {
+	display: flex;
+	justify-content: space-between;
+	
+}
+@media(max-width:767px){
+	.for-whom__content {
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+	}
+}
+.for-whom__title {
+	margin:0px 135px 0px 0px;
+}
+@media(max-width:767px){
+	.for-whom__title {
+		margin:0px 0px 0px 0px;
+	}
+}
+.title-block {
+}
+.subtitle-content {
+}
+.subtitle-content__text {
+}
+.title-content {
+}
+.title-content__text {
+}
+.for-whom__list {
+	margin:32px 0px 0px 0px;
+	max-width: 600px;
+
+}
+.list-block {
+}
+.for-whom__list .list-block__items {
+font-size: 20px;
+font-weight: 700;
+line-height: 1.5;
+
+}
+.for-whom__list .list-block__items:not(:last-child) {
+margin:0px 0px 20px 0px;
+	}
+.list-block__items {
+}
+.items-block {
+}
+.items-block__item {
+}
